@@ -1,6 +1,6 @@
 //arrray of the quiz questions, avaialble choices, and correct answers
 var questions = [{
-        title: "Which of the following function of Array object adds one or more elements to the front of an array and returns the new length of the array?",
+        title: "Which of the following function of an array object adds one or more elements to the front of an array and returns the new length of the array?",
         choices: ["unshift( )", "sort( )", "splice( )", "toString( )"],
         answer: "unshift( )"
     },
@@ -15,7 +15,7 @@ var questions = [{
         answer: "substr( )"
     },
     {
-        title: "Which of the following function of Array object adds and/or removes elements from an array?",
+        title: "Which of the following function of an array object adds and/or removes elements from an array?",
         choices: ["toSource( )", "sort( )", "unshift( )", "splice( )"],
         answer: "splice( )"
     },
