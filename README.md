@@ -11,7 +11,7 @@ Instructions:
 
 Good luck! 
 
-https://wendyhub.github.io/code-quiz/
+https://wendyhub.github.io/code-quiz/index.html
 
 
 
