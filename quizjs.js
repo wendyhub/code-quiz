@@ -1,4 +1,4 @@
-//arrray of the quiz questions, avaialble choices, and correct answers
+//arrray of the quiz questions, avaialble choices, and correct answers     
 var questions = [{
         title: "Which of the following function of an array object adds one or more elements to the front of an array and returns the new length of the array?",
         choices: ["unshift( )", "sort( )", "splice( )", "toString( )"],
